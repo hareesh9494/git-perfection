@@ -15,6 +15,7 @@
 		E478B0E826CA30BD00EDE0B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E478B0E626CA30BD00EDE0B7 /* LaunchScreen.storyboard */; };
 		E478B0F326CA30BD00EDE0B7 /* git_perfectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E478B0F226CA30BD00EDE0B7 /* git_perfectionTests.swift */; };
 		E478B0FE26CA30BD00EDE0B7 /* git_perfectionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E478B0FD26CA30BD00EDE0B7 /* git_perfectionUITests.swift */; };
+		E478B10F26CA366200EDE0B7 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = E478B10E26CA366200EDE0B7 /* Map.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E478B0F926CA30BD00EDE0B7 /* git perfectionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git perfectionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E478B0FD26CA30BD00EDE0B7 /* git_perfectionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = git_perfectionUITests.swift; sourceTree = "<group>"; };
 		E478B0FF26CA30BD00EDE0B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E478B10E26CA366200EDE0B7 /* Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E478B0E426CA30BD00EDE0B7 /* Assets.xcassets */,
 				E478B0E626CA30BD00EDE0B7 /* LaunchScreen.storyboard */,
 				E478B0E926CA30BD00EDE0B7 /* Info.plist */,
+				E478B10E26CA366200EDE0B7 /* Map.swift */,
 			);
 			path = "git perfection";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				E478B0E026CA30BA00EDE0B7 /* ViewController.swift in Sources */,
 				E478B0DC26CA30BA00EDE0B7 /* AppDelegate.swift in Sources */,
+				E478B10F26CA366200EDE0B7 /* Map.swift in Sources */,
 				E478B0DE26CA30BA00EDE0B7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
